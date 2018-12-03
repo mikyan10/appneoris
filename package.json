@@ -1,0 +1,13 @@
+{
+    "name" : "demonode",
+    "version" : "1.0.0",
+    "description" : "mi app node",
+    "author" : "MaM",
+    "main" : "server.js",
+    "script" : {
+        "start" : "node server.js"
+    },
+    "dependencies" : {
+        "expreses" : "^4.16.1"
+    }
+}
